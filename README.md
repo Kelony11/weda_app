@@ -1,3 +1,5 @@
+Weda APP  🌦️
+
 # CURRENT FEATURES
 
 - Seamless Navigation & Search – Quickly find real-time weather conditions for any city.
